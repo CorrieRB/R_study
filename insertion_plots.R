@@ -5,8 +5,6 @@ getwd()
 setwd("C:/Users/corrie/Dropbox/Grad School/Hancock Lab/Experiments/Tn-Seq/Analysis/2018/Transit_vs_Tradis/retnseqpao1results")
 
 
-#420 blaze it
-
 ##open sequence coordinate file from Travis
 seq <- read.table("C:/Users/corrie/Dropbox/Grad School/Hancock Lab/Experiments/Tn-Seq/Analysis/2018/Transit_vs_Tradis/retnseqpao1results/PAO1_NC_0025162_position_base/PAO1_NC_0025162_position_base.txt", header = TRUE)
 
